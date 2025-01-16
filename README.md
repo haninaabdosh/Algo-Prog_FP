@@ -55,3 +55,7 @@ If the data files (`habits.csv`, `medications.csv`, `periods.csv`) are missing, 
 4. **Open in Your Browser**:
     - After running the command, a local URL  will pop up in the terminal.
     - Open it in your browser, and you’re good to go!
+
+## Contact
+
+If you have any questions, please contact me at hanina.abdosh@binus.ac.id.
